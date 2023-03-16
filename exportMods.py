@@ -34,3 +34,8 @@ for i in dirs:
     print(f"Old Path: {pathOld}, New Path: {pathNew}")
     shutil.copyfile(pathOld, pathNew)
     print("COPIED")
+
+
+
+print("DONE!!!")
+print("Have a great time with your server c:")
